@@ -1,1 +1,1 @@
-# IBM_coursera_capstone_project
+# IBM Prediction Project
