@@ -1,2 +1,2 @@
-# IBM Classification Project
-We build a classifier to predict loan repayment for IBM Developer Skills Network. See Jupyter Notebook for code and figures.
+# IBM AI Engineering & Machine Learning Certificate
+This repo contains Jupyter Notebook scripts for completing required labs and projects for IBM's AI Engineering and Machine Learning Certificate track.
